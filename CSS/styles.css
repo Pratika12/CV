@@ -1,0 +1,30 @@
+body
+{
+    background-color:#EAF6F6;
+    background-image: linear-gradient(to right, #FF9292 10%, #84DFFF);
+}
+hr
+{
+    border-color:darkblue;
+    border-width: 5px;
+    border-style: dotted none none;
+    width:8%;
+}
+h1,h3
+{
+    color: darkblue;  
+}
+table
+{
+    border-color: darkblue;
+}
+img
+{
+    border-radius: 100%;
+}
+.Contact:hover
+{
+    color:rgb(58, 128, 0);
+    font-size: 20px;
+    font-weight:700;
+}
